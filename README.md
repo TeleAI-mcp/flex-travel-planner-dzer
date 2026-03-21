@@ -1,2 +1,3 @@
-# flex-travel-planner-dzer
+# Flex Travel Planner Dzer
+
 A repository to test GitHub automation for issue management.
